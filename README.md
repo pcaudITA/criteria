@@ -1,5 +1,7 @@
 # PCaudit — End-of-Life Classification Guide
 
+<!-- redeploy trigger 2026-07-05 -->
+
 A single-page, self-contained reference guide describing how PCaudit audits, classifies (grades A–D) and quantifies the condition of recovered devices, and how each grade affects Fair Market Value (FMV).
 
 **Features**
